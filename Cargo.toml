@@ -1,0 +1,18 @@
+[package]
+name = "ngwaijie_tp066893"
+version = "0.1.0"
+edition = "2021"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+crossbeam-channel = "0.5.12"
+rand = "0.8.5"
+scheduled-thread-pool = "0.2.7"
+bma-benchmark = "0.0.24"
+
+
+
+
+
